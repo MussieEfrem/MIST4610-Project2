@@ -1,7 +1,7 @@
 # MIST4610-Project2
 Team Name: MIST4610.21482 Group - 5
 
-Team Members: Annie Cheung: Grace Wang: Mussie Gebrekidan:
+Team Members: Annie Cheung: Grace Wang: Mussie Gebrekidan, Josh Yi:
 
 Dataset:
 
